@@ -22,6 +22,8 @@ int main()
     cout << "Enter third name: " << endl;
     cout << "Enter fourth name: " << endl;
 
+    cout << "Testing" << endl;
+
 
 }
 
