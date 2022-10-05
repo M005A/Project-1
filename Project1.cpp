@@ -11,10 +11,10 @@ using std::endl;
 
 int main()
 {
-    string n1;
-    string n2;
-    string n3;
-    string n4;
+    string n1 = "";
+    string n2 = "";
+    string n3 = "";
+    string n4 = "";
 
     cout << "Enter first name: " << endl;
     cout << "Enter second name: " << endl;
