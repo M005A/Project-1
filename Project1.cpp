@@ -12,7 +12,12 @@ using std::endl;
 int main()
 {
 
-    cout << "Enter width: " << endl;
-    cout << "Enter length: ";
+    cout << "Enter first name: " << endl;
+    cout << "Enter second name: " << endl;
+
+    cout << "Enter third name: " << endl;
+    cout << "Enter fourth name: " << endl;
+
+
 }
 
